@@ -9,9 +9,6 @@ library(data.table)
 library(ggplot2)
 
 # Data Source -------------------------------------------------------------
-# Group link
-# https://drive.google.com/drive/folders/1apxDlz7v0g_zXQiprWdlTnciGQ5bueQC
-# https://rstudio.github.io/shinydashboard/structure.html
 
 # Data Source
 # Calories Data

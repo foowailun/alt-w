@@ -1,0 +1,83 @@
+products,food,calorie_in_Kcal,food_short_name
+Rice and cereal,White bread (1 slice),48,White Bread
+Rice and cereal,Chicken porridge (1 bowl),182,Chicken Porridge
+Rice and cereal,"Chicken rice (1 plate, 250g)",278,Chicken Rice
+Rice and cereal,Claypot chicken rice (1 bowl),898,Claypot Chicken Rice
+Rice and cereal,Cooked rice (1 bowl),207,Cooked Rice
+Rice and cereal,Curry Laksa (1 bowl),586,Curry Laksa
+Rice and cereal,"Curry puff (1 piece, 40g)",128,Curry Puff
+Rice and cereal,"Fried kuih-teow (1 plate, 170g)",324,Fried Kuih-Teow
+Rice and cereal,"Fried mee/mee hoon (1 plate, 170g)",281,Fried Mee/Mee Hoon
+Rice and cereal,"Fried rice (1 plate, 330g)",637,Fried Rice
+Rice and cereal,"Mee Bandung (1 bowl, 450g)",549,Mee Bandung
+Rice and cereal,Mee Hailam (1 bowl),277,Mee Hailam
+Rice and cereal,"Mee soup (1 bowl, 560g)",383,Mee Soup
+Rice and cereal,"Nasi bryani (1 plate, 240g)",448,Nasi Bryani
+Rice and cereal,Nasi lemak with sambal (1 bowl),644,Nasi Lemak With Sambal
+Rice and cereal,Nasi minyak with beef rendang (1 bowl),664,Nasi Minyak With Beef Rendang
+Rice and cereal,Penang Laksa (1 bowl),436,Penang Laksa
+Rice and cereal,"Plain roti canai (1 plate, 95g)",301,Plain Roti Canai
+Rice and cereal,Prawn mee Soup (1 bowl),293,Prawn Mee Soup
+Rice and cereal,"Sardine sandwich,  (1 piece, 30g)",71,"Sardine Sandwich, "
+Rice and cereal,Spaghetti with chicken and mushroom (526g),463,Spaghetti With Chicken And Mushroom
+Rice and cereal,Wanton mee (dry) (1 bowl),409,Wanton Mee
+Rice and cereal,Wanton mee Soup (1 bowl),217,Wanton Mee Soup
+Meat and egg,"Dried Anchovy, fries in chili (1serving, 40g)",126,"Dried Anchovy, Fries In Chili"
+Meat and egg,Ayam rendang (1 portion),258,Ayam Rendang
+Meat and egg,"Beef burger (1 piece, 180g)",427,Beef Burger
+Meat and egg,"Beef satay (10 sticks, 150g)",360,Beef Satay
+Meat and egg,Century egg (115g),97,Century Egg
+Meat and egg,"Cheese burger (regular,120g)",341,Cheese Burger
+Meat and egg,Chicken Chop with french fries (1 portion),726,Chicken Chop With French Fries
+Meat and egg,"Chicken curry (1 piece, 125g)",195,Chicken Curry
+Meat and egg,"Chicken satay (10sticks, 150g)",365,Chicken Satay
+Meat and egg,Deep fried sotong(1 small plate),630,Deep Fried Sotong(1 Small Plate)
+Meat and egg,"Egg (1 whole, 50g)",71,Egg
+Meat and egg,"Fish ball (5 balls, 45g)",37,Fish Ball
+Meat and egg,Fish & Chips (1 portion),427,Fish & Chips
+Meat and egg,Fish Head Curry (1 small plate),288,Fish Head Curry
+Meat and egg,"Fried chicken (1 piece, 120g)",255,Fried Chicken
+Meat and egg,Hot dog (80g),225,Hot Dog
+Meat and egg,Ikan Asam Pedas (1 medium piece),180,Ikan Asam Pedas
+Meat and egg,Prawn Sambal (1 small plate),194,Prawn Sambal
+Meat and egg,"Quail egg (5 whole, 60g)",85,Quail Egg
+Meat and egg,Sweet and Sour Fish (1 medium size),567,Sweet And Sour Fish
+Fruit and vegetable,"Red Apple (1 whole small, 100g)",52,Red Apple
+Fruit and vegetable,"Banana (2 medium, 185g)",124,Banana
+Fruit and vegetable,"Bitter gourd (1 whole elongated, 394g)",57,Bitter Gourd
+Fruit and vegetable,"Broccoli (1 lobe large, 154g)",45,Broccoli
+Fruit and vegetable,"Cabbage (1 cup, 70g)",15,Cabbage
+Fruit and vegetable,"Carrot (1 cup, 125g)",45,Carrot
+Fruit and vegetable,"Celery (1 cup, 125g)",14,Celery
+Fruit and vegetable,"Egg plant (1 whole elongated, 131g)",36,Egg Plant
+Fruit and vegetable,"Kale (1 cup, 63g)",27,Kale
+Fruit and vegetable,Kangkung Belacan (1 potion),165,Kangkung Belacan
+Fruit and vegetable,"Kiwi (1 whole small, 90g)",35,Kiwi
+Fruit and vegetable,"Lady's finger (5 whole elongated, 66g)",18,Lady's Finger
+Fruit and vegetable,"Lemon (1whole medium, 140g)",10,Lemon
+Fruit and vegetable,"Mango (1 whole large, 230g)",103,Mango
+Fruit and vegetable,"Mushroom (5 pieces, 11g)",34,Mushroom
+Fruit and vegetable,"Orange (1 whole medium, 130g)",38,Orange
+Fruit and vegetable,"Papaya (1 slice, 160g)",35,Papaya
+Fruit and vegetable,"Radish (1 whole elongated, 263g)",31,Radish
+Fruit and vegetable,"Spinach (1 cup, 55g)",14,Spinach
+Fruit and vegetable,"Tomato (2 whole small, 45g)",9,Tomato
+Fruit and vegetable,"Watercress (1 cup, 77g)",15,Watercress
+Beverage and dessert,Agar-agar (1 piece),37,Agar-Agar
+Beverage and dessert,Apple pie (1 slice),260,Apple Pie
+Beverage and dessert,"Swiss roll Cake (1 piece, 10g)",36,Swiss Roll Cake
+Beverage and dessert,"Carbonated drink (1 bottle, 600ml)",258,Carbonated Drink
+Beverage and dessert,"Chocolate cake (1 slice, 64g)",235,Chocolate Cake
+Beverage and dessert,"Doughnut (1 piece, 75g)",68,Doughnut
+Beverage and dessert,"Instant coffee (1 packet, 20g)",87,Instant Coffee
+Beverage and dessert,Low fat yogurt (1 cup),100,Low Fat Yogurt
+Beverage and dessert,"Milk chocolate (1 medium bar, 100g)",483,Milk Chocolate
+Beverage and dessert,Milo (1 small cup),133,Milo
+Beverage and dessert,"Pisang goreng (1 piece, 65g)",129,Pisang Goreng
+Beverage and dessert,Spring roll (fried) (34g),91,Spring Roll
+Beverage and dessert,Spring roll (wet) (50g),94,Spring Roll
+Beverage and dessert,Soy milk (245g),132,Soy Milk
+Beverage and dessert,Tau foo fah (1 bowl),144,Tau Foo Fah
+Beverage and dessert,Teh tarik (1 small cup),83,Teh Tarik
+Beverage and dessert,"You Car Kueh (1 piece, 70g)",292,You Car Kueh
+Beverage and dessert,Water,0,Water
