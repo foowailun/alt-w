@@ -2,6 +2,7 @@
 # This is a Shiny web application. You can run the application by clicking the 'Run App' button above.
 
 # Library -----------------------------------------------------------------
+library(curl)
 library(shiny)
 library(shinydashboard)
 library(data.table)
